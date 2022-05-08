@@ -31,3 +31,6 @@ def solution(new_id):
             
         
     return answer
+
+solution("...!@BaT#*..y.abcdefghijklm")
+# result = "bat.y.abcdefghi"
