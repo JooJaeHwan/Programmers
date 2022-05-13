@@ -32,3 +32,6 @@ def solution(s):
     
             
     return min(result)                      # result에서 최소값 리턴
+
+solution("aabbaccc")
+# result = 7
