@@ -33,3 +33,7 @@ def solution(str1, str2):
         return 65536
     
     else: return int(len(inter) / len(union) * 65536)
+
+
+solution('FRANCE', 'french')
+# result = 16384
