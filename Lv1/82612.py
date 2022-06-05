@@ -15,4 +15,4 @@ def solution(price, money, count):
 
 
 solution(3, 20, 4)
-# result = 10
+# result = 10 
