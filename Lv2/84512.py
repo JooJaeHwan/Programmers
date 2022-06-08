@@ -15,3 +15,4 @@ def solution(word):
 
 solution("AAAAE")
 # result = 6
+

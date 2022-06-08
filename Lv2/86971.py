@@ -36,3 +36,7 @@ def solution(n, wires):
         if abs(result - (n-result)) < answer:
             answer =  abs(result - (n-result))
     return answer
+
+
+solution(9, [[1, 3], [2, 3], [3, 4], [4, 5], [4, 6], [4, 7], [7, 8], [7, 9]])
+# result = 3
