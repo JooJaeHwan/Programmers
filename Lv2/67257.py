@@ -6,7 +6,7 @@ https://programmers.co.kr/learn/courses/30/lessons/67257?language=python3
 
 from itertools import permutations
 '''
-permutations 조합
+permutations 순열
 '''
 def solution(expression):
     operators = ["+","-","*"]       # 연산자 기호 리스트 생성
@@ -20,6 +20,5 @@ def solution(expression):
         answer.append(abs(eval(a.join(tmp_list))))
     return max(answer)
     
-
 solution("100-200*300-500+20")
 # result = 60420
