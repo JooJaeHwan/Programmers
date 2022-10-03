@@ -72,7 +72,7 @@
 ## [72410](Lv1/72410.py) 풀이
 문제 - [2021 KAKAO BLIND RECRUITMENT / 신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410?language=python3)
 ## [81301](Lv1/81301.py) 풀이
-문제 - 2021 카카오 채용연계형 인턴십 / 숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301?language=python3)
+문제 - [2021 카카오 채용연계형 인턴십 / 숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301?language=python3)
 ## [82612](Lv1/82612.py) 풀이
 문제 - [위클리 챌린지 / 부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612?language=python3)
 ## [86491](Lv1/86491.py) 풀이
