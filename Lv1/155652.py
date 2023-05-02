@@ -20,3 +20,7 @@ def solution(s, skip, index):
 
                 
     return answer
+
+
+solution("aukks", "wbqd", 5)
+# result = "happy"

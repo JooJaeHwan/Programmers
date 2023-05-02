@@ -16,3 +16,7 @@ def solution(players, callings):
         rank_dict[rank-1], rank_dict[rank] = rank_dict[rank], rank_dict[rank-1]
     
     return list(rank_dict.values())
+
+
+solution(["mumu", "soe", "poe", "kai", "mine"], ["kai", "kai", "mine", "mine"])
+# result = ["mumu", "kai", "mine", "soe", "poe"]
